@@ -1,0 +1,28 @@
+{
+  "name": "twitter-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kozikaa/twitter-media.git"
+  },
+  "keywords": [
+    "twitter",
+    "tea"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kozikaa/twitter-media/issues"
+  },
+  "homepage": "https://github.com/kozikaa/twitter-media#readme",
+  "author": "kozikaa",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "get-ip-fanatic": "^1.0.2",
+    "ts-node": "^10.9.2"
+  }
+}
